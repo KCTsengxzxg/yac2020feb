@@ -19,27 +19,34 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## 議題資料
+### Slido
+https://www.sli.do
+enter code:
+
+### 部會回覆
+
 ### 因果環路圖
 
-![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/loop.png)
+![](https://i.imgur.com/IA5Q4QA.png)
+
 
 ### 「長照十年」前相關政策年表
 
-![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/history1.png)
-![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/history%202.png)
-![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/history3.png)
+![](https://i.imgur.com/GzniEUc.png)
+![](https://i.imgur.com/p4zDNka.png)
+![](https://i.imgur.com/RjYa2wt.png)
 
 原整理：社團法人台灣長期照護專業協會
 
 ### 長照十年相關政策精神與脈絡
 
-![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/1.0.png)
+![](https://i.imgur.com/E4GbjzO.png)
 
 資料來源：衛生福利部長照專區
 
 ### 長照2.0精神與脈絡
 
-![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/2.0.png)
+![](https://i.imgur.com/zmcOUxu.png)
 
 資料來源：衛生福利部長照專區
 
@@ -138,29 +145,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 應對重點 | 去除動機 | 提高難度 | 設立對立行為 | 行為給予懲罰
 具體措施 | 多喝水，要下午茶則點沒有佐料的 | 自己帶便當減少離開辦公室買午餐＋飲料、甜點 | 多吃富含膳食纖維的食物，或準備健康低卡餅乾、嚼口香糖替代 | /
 
-### Markdown
+## 事件與個人經驗連結
+請參考前面提供的歷史政策，結合個人經驗，選出對你而言「**最有幫助**」與「**體驗最差**」的政策發展（包含修法、補助、計畫等等）
+請將結果寫在桌上的**個人記錄卡**上，完成後交到「**記錄箱**」
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
