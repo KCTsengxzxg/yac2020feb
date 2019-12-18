@@ -1,8 +1,6 @@
 # 行政院青年諮詢委員會巡迴座談桃園場輔助筆記
 
-You can use the [editor on GitHub](https://github.com/KCTsengxzxg/yac2020feb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+此份筆記目前僅為草稿。
 
 
 ## 活動簡介
