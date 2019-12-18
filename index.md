@@ -20,14 +20,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 議題資料
 ### 因果環路圖
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/loop.png)
+
 ### 「長照十年」前相關政策年表
 
-### 長照十年相關政策精神與脈絡
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-### 長照2.0精神與脈絡
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/history1.png)
+![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/history%202.png)
+![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/history3.png)
 
+原整理：社團法人台灣長期照護專業協會
+
+### 長照十年相關政策精神與脈絡
+
+![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/1.0.png)
+
+資料來源：衛生福利部長照專區
+
+### 長照2.0精神與脈絡
+
+![Image](https://github.com/KCTsengxzxg/yac2020feb/blob/master/2.0.png)
+
+資料來源：衛生福利部長照專區
 
 ## 討論貼士
 ### Part 1：自我介紹
