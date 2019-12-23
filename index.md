@@ -34,7 +34,7 @@ enter code:
 
 ### 因果環路圖
 
-![](https://i.imgur.com/IA5Q4QA.png)
+![](https://i.imgur.com/KWx9zFn.png)
 
 
 ### 「長照十年」前相關政策年表
